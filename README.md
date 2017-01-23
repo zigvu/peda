@@ -1,1 +1,3 @@
-# peda
+# Peda
+Clustering for visual mining
+
